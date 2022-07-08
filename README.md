@@ -1,6 +1,8 @@
 # training
 
-A new Flutter project.
+A Flutter project that helps in food delivery confirmation , It's more reliable and it avoid errors we face usually caused by manual systems.
+First Screen: Displays a buuton for manual registration.
+Second Screen : Displays Users data such as their name and phone number and their order's number.
 
 ## Getting Started
 
